@@ -1,0 +1,6 @@
+.godot/
+.import/
+build/
+export.cfg
+export_presets.cfg
+*.translation
